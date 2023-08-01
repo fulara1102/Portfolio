@@ -249,3 +249,9 @@ header{
 }
 
 
+#about{
+    align-items: center;
+    justify-content: center;
+    display: block;
+}
+
